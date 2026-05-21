@@ -36,8 +36,8 @@ Given n items each with a value, a weight, and a maximum available quantity, fin
 ## Run
 
 ```bash
-git clone https://github.com/your-username/bounded-knapsack.git
-cd bounded-knapsack
+git clone https://github.com/Arokn/Knapsack-Problem.git
+cd Knapsack-Problem
 jupyter notebook projet.ipynb
 ```
 
